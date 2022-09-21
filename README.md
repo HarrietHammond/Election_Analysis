@@ -37,8 +37,11 @@ The election analysis show that:
         Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
 
 
+## Link to images and code
 
 C:\Users\16187\Desktop\Bootcamp_Main\Module_3\Resources\election_analysis.txt
+
+C:\Users\16187\Desktop\Bootcamp_Main\Module_3
 
 ## Challenge Overview
 The challenge was to audit and report the total number of votes cast in the congressional elections using Python. Python was expected to automate the audit process and determine the winning candidate and county. The total number of votes for each candidate, the percentage of votes for each candidate, and the winner of the election based on the popular vote was determined using Python in the audit.
